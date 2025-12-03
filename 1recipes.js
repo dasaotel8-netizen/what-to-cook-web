@@ -28,7 +28,7 @@ const RECIPES = [
       "Постепенно вмешайте муку до гладкого теста.",
       "Разогрейте сковороду, смажьте маслом и выпекайте блины по 1–2 минуты с каждой стороны."
     ],
-    image: "https://images.unsplash.com/photo-1587731540871-314378d5c1d5?w=1200&q=80",
+    image: "https://menunedeli.ru/wp-content/uploads/2025/02/Klassicheskie-bliny-na-moloke-500x350-1-933x700.jpg",
     calories: 220
   },
   {
