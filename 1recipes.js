@@ -41,7 +41,7 @@ const RECIPES = [
       "Разогрейте сковороду и растопите масло.",
       "Вылейте смесь и жарьте до готовности, накрыв крышкой пару минут."
     ],
-    image: "https://images.unsplash.com/photo-1627662236975-6e3c3c7c42e3?w=1200&q=80",
+    image: "https://www.maggi.ru/sites/default/files/srh_recipes/0bc40ffdff63061ad455bff28d7a59d0.jpg",
     calories: 300
   },
   {
@@ -54,7 +54,7 @@ const RECIPES = [
       "Добавьте соль и растительное масло, аккуратно перемешайте.",
       "Подавайте холодным."
     ],
-    image: "https://images.unsplash.com/photo-1566843978472-8b9cbf3b21d8?w=1200&q=80",
+    image: "https://img.iamcook.ru/2023/upl/recipes/zen/u-ec03017e2380ff6b5c3927e1d35a1031.JPG",
     calories: 80
   },
   {
@@ -66,7 +66,7 @@ const RECIPES = [
       "Отварите макароны до аль-денте в подсолённой воде.",
       "Слейте воду, добавьте масло и тёртый сыр, перемешайте до гладкости."
     ],
-    image: "https://images.unsplash.com/photo-1543353071-0877df9cc836?w=1200&q=80",
+    image: "https://cdn.food.ru/unsigned/fit/640/480/ce/0/czM6Ly9tZWRpYS9waWN0dXJlcy8yMDIzMTIxNy8zVHdMeHEuanBlZw.jpg",
     calories: 450
   },
   {
@@ -78,7 +78,7 @@ const RECIPES = [
       "Очистите и порежьте картофель, отварите до мягкости.",
       "Слейте воду, разомните, добавьте горячее молоко и масло, взбейте до кремовой текстуры."
     ],
-    image: "https://images.unsplash.com/photo-1603048297172-bd4dbe0c2f69?w=1200&q=80",
+    image: "https://img.iamcook.ru/2022/upl/recipes/cat/u-6f813b4917ad03577d056610f5e244f7.JPG",
     calories: 200
   },
   {
@@ -91,7 +91,7 @@ const RECIPES = [
       "Запекайте в духовке при 200°C 40–50 минут до золотистой корочки.",
       "Дайте отдохнуть 5 минут перед нарезкой."
     ],
-    image: "https://images.unsplash.com/photo-1600762155803-85d34ed2a5d2?w=1200&q=80",
+    image: "https://img.iamcook.ru/old/upl/recipes/cat/u6513-014e3f0bfa5a86d51003d18fae7bb8d9.JPG",
     calories: 600
   },
   {
@@ -103,7 +103,7 @@ const RECIPES = [
       "Отварите гречку до готовности.",
       "Обжарьте лук и грибы до золотистого цвета, смешайте с гречкой и приправьте."
     ],
-    image: "https://images.unsplash.com/photo-1601050690597-cbc381c01e3e?w=1200&q=80",
+    image: "https://gipfel.ru/upload/iblock/6a3/0h4yv2q51p0y6md8a1w4c5zjfsuc3dod.jpg",
     calories: 350
   },
   {
