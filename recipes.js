@@ -15,7 +15,7 @@ const RECIPES = [
       "Снимите с огня, накройте крышкой и оставьте на 1 минуту.",
       "Нарежьте банан и добавьте в кашу, полейте мёдом перед подачей."
     ],
-    image: "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=1200&q=80",
+    image: "https://recepty.24tv.ua/resources/photos/recipe/1200x675_DIR/202002/49952321ece-194a-48f4-a611-a4d3d3b43d8f.jpg?1581086436000",
     calories: 320
   },
   {
