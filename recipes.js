@@ -28,7 +28,7 @@ const RECIPES = [
       "Постепенно вмешайте муку до гладкого теста.",
       "Разогрейте сковороду, смажьте маслом и выпекайте блины по 1–2 минуты с каждой стороны."
     ],
-    image: "https://www.russianfood.com/dycontent/images_upl/112/big_111352.jpg",
+    image: "https://unsplash.com/photos/baked-pancake-with-blueberry-and-slice-of-banan-qp7WA8AV2x0",
     calories: 220
   },
   {
